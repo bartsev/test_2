@@ -105,7 +105,7 @@ class ylab_fruits extends CModule
     function uninstallFiles()
     {
         deleteDirFiles(
-            __DIR__ . '/componets',
+            __DIR__ . '/components',
             $_SERVER['DOCUMENT_ROOT'] . '/bitrix/components'
         );
 
