@@ -1,0 +1,11 @@
+
+CREATE TABLE IF NOT EXISTS ylab_fruit
+(
+    ID INT NOT NULL AUTO_INCREMENT,
+    TITLE VARCHAR(255),
+    PRIMARY KEY (ID)
+);
+
+INSERT INTO ylab_fruit (TITLE) VALUES('Apple!');
+INSERT INTO ylab_fruit (TITLE) VALUES('Lemon');
+INSERT INTO ylab_fruit (TITLE) VALUES('Banana');
