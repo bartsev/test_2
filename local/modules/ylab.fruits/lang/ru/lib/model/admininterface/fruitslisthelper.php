@@ -1,3 +1,3 @@
 <?php
 
-$MESS['YLAB_FRUITS_LIST_TITLE'] = 'Ôðóêòû èç Ylab';
+$MESS['YLAB_FRUITS_LIST_TITLE'] = 'Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ„Ñ€ÑƒÐºÑ‚Ð¾Ð²';
